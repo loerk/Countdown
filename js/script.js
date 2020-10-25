@@ -4,7 +4,7 @@ const minsEl= document.getElementById('minutes');
 const secondsEl= document.getElementById('seconds');
 
 
-const Birthday = "01 01 2021";
+const Birthday = "01 Nov 2020";
 
 function countdown(){
     const BirthdayDate = new Date(Birthday);
